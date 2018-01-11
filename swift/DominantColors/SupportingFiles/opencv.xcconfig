@@ -1,0 +1,9 @@
+//
+//  opencv.xcconfig
+//  DominantColors
+//
+//  Created by Sharp, Chris T on 1/11/18.
+//  Copyright © 2018 Apple. All rights reserved.
+//
+
+OPENCV_ROOT=../external/opencv

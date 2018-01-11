@@ -1,0 +1,4 @@
+[submodule "external/opencv"]
+	path = external/opencv
+	url = https://github.com/opencv/opencv
+	branch = master
