@@ -26,7 +26,7 @@ if [ ! -d $OPENCV_ROOT/ios/opencv2.framework ]; then
         # run the build_framework.py script.
         #
         if [ -f $OPENCV_ROOT/platforms/ios/build_framework.py ]; then
-            python $OPENCV_ROOT/platforms/ios/build_framework.py $OPENCV_ROOT
+            python $OPENCV_ROOT/platforms/ios/build_framework.py $OPENCV_ROOT/ios
         else
             echo "build_framework.py script not found"
             exit 1
