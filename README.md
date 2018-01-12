@@ -8,7 +8,7 @@ Contains two versions:
 
 This demonstrates how to find the dominant colors in an image. Included are Swift and command-line(cpp) samples.  The command-line version outputs a PNG file of the palette and a PNG image quantized to the resulting palette.  The Swift version uses an Objective-C Category to extend UIImage and Objective-C Bridging Header to expose the extension to Swift.  A Camera preview allows the user to take a photo from which dominant colors are found.
 
-Based on algorithms found [here.] (http://aishack.in/tutorials/dominant-color-implementation)
+Based on algorithms found [here](http://aishack.in/tutorials/dominant-color-implementation)
 
 
 ## Requirements
